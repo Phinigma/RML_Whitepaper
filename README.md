@@ -11,4 +11,4 @@ This project is licensed under the Apache License 2.0. For more details, see the
 
 ## Contact
 Author: Timothy Workman  
-Contact: [yourname@yourwebsite.com]
+Contact: tj@phinigma.com
